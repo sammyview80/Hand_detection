@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scaleImages</folder>
+	<filename>augmented_image218.jpg</filename>
+	<path>/home/sammyview80/Desktop/DL/hand/utils/scaleImages/augmented_image218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>56</ymin>
+			<xmax>67</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>
